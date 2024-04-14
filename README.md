@@ -51,5 +51,5 @@ Launch the chat service locally :
 
 ## Contributing 🙌
 If you want to contribute to this project, please open an issue, submit a pull request or contact me at barbot.yvann@gmail.com (:
-hie
+hie hie
 
